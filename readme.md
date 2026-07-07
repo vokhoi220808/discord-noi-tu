@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1118833917634351114/1119561957016399942/logo.png" alt="Logo" width="200"/>
+  <img src="https://files.catbox.moe/n9rzwx.png"/>
   <h1>ĐỘ MIXI - DISCORD BOT NỐI TỪ V.I.P</h1>
   <p><i>Một siêu phẩm Bot nối từ Tiếng Việt tích hợp trí tuệ nhân tạo, minigame và bảng xếp hạng!</i></p>
 
